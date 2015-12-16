@@ -1,0 +1,39 @@
+
+/* Class = "IBUILabel"; text = "纬度:"; ObjectID = "4fd-br-1G6"; */
+"4fd-br-1G6.text" = "纬度:";
+
+/* Class = "IBUIButton"; normalTitle = "反地理编码"; ObjectID = "5Nm-DX-sFH"; */
+"5Nm-DX-sFH.normalTitle" = "反地理编码";
+
+/* Class = "IBUILabel"; text = "详细地址"; ObjectID = "Pi1-e5-2iy"; */
+"Pi1-e5-2iy.text" = "详细地址";
+
+/* Class = "IBUILabel"; text = "地址:"; ObjectID = "Pm7-8G-2Ec"; */
+"Pm7-8G-2Ec.text" = "地址:";
+
+/* Class = "IBUILabel"; text = "纬度:"; ObjectID = "WG7-Sn-ykK"; */
+"WG7-Sn-ykK.text" = "纬度:";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "Wdg-vU-FJ1"; */
+"Wdg-vU-FJ1.text" = "0";
+
+/* Class = "IBUILabel"; text = "经度:"; ObjectID = "aTL-I8-R7X"; */
+"aTL-I8-R7X.text" = "经度:";
+
+/* Class = "IBUITabBarItem"; title = "地理编码"; ObjectID = "f5C-JF-z2D"; */
+"f5C-JF-z2D.title" = "地理编码";
+
+/* Class = "IBUILabel"; text = "经度:"; ObjectID = "hJv-Wq-N6b"; */
+"hJv-Wq-N6b.text" = "经度:";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "ije-HV-R8h"; */
+"ije-HV-R8h.text" = "0";
+
+/* Class = "IBUIButton"; normalTitle = "地理编码"; ObjectID = "ord-rB-BEK"; */
+"ord-rB-BEK.normalTitle" = "地理编码";
+
+/* Class = "IBUITabBarItem"; title = "反地理编码"; ObjectID = "pwL-0p-brK"; */
+"pwL-0p-brK.title" = "反地理编码";
+
+/* Class = "IBUILabel"; text = "详细地址"; ObjectID = "wwh-hA-o2U"; */
+"wwh-hA-o2U.text" = "详细地址";
